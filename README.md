@@ -1,6 +1,7 @@
-#BMI Calculator
+# BMI Calculator
 
 Calculate Bmi App using Flutter
 
-##Screenshot
+## Screenshot
+
 ![app](app.gif)
